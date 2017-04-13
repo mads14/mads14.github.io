@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
+
+About me: I am a graduate student in Transportation Engineering at UC Berkeley. ...
 
 You can use the [editor on GitHub](https://github.com/mads14/mads14.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
